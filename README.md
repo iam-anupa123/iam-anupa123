@@ -1,5 +1,6 @@
 <h1 align="center">Hullo world👋, I'm Anupa</h1>
 <h3 align="center">Passion to study computer science</h3>
+<a href="https://app.daily.dev/aaxell123"><img src="https://api.daily.dev/devcards/v2/KXMxpoaykGoeDkEutAuCe.png?r=gwk&type=default" width="356" alt="Anupa Vitharana's Dev Card"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iam-anupa123" alt="iam-anupa123" /></a> </p>
 
