@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
-####
+<hr>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
